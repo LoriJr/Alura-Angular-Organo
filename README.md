@@ -57,3 +57,13 @@ Angular CLI does not come with an end-to-end testing framework by default. You c
 ## Additional Resources
 
 For more information on using the Angular CLI, including detailed command references, visit the [Angular CLI Overview and Command Reference](https://angular.dev/tools/cli) page.
+
+
+## Content Class
+
+- [Module 1: Getting to know Angular](#module-1:-getting-to-know-angular)
+
+## Module 1: Getting to know Angular
+### Lesson Summary
+
+- This lesson learn to create a start structure of the angular project the way automatic using the angular CLI. By the way, we see components in reusable, how the header and the footer, and then render on aplication.
