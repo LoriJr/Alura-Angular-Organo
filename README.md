@@ -63,6 +63,7 @@ For more information on using the Angular CLI, including detailed command refere
 
 - [Module 1: Getting to know Angular](#module-1:-getting-to-know-angular)
 - [Module 2: Getting to know the Data Flow](#module-2:-getting-to-know-the-data-flow)
+- [Module 3: Interfaces and inputSignal](#module-3:-interfaces-and-inputsignal)
 
 ## Module 1: Getting to know Angular
 ### Lesson Summary
@@ -88,3 +89,13 @@ In this lesson, we learned:
 - Associating images with Angular components through Property Binding.
 - Applying Unicode to icons and using event binding for interaction.
 - Toggle states and elements with negation and ternary operators.
+
+## Module 3: 
+### Lesson Summary
+
+- Creating data models in TypeScript using interfaces to define object contracts.
+- Implementing object typing with the Book interface, improving type checking.
+- Creating Angular components to manage lists of items, promoting separation of responsibilities.
+- The importance of communication between Angular components for reusing functionality and sharing data.
+- Separating data from presentation logic using mock files.
+- The implementation and use of input properties in Angular components.
