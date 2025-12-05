@@ -64,11 +64,10 @@ For more information on using the Angular CLI, including detailed command refere
 - [Module 1: Getting to know Angular](#module-1:-getting-to-know-angular)
 - [Module 2: Getting to know the Data Flow](#module-2:-getting-to-know-the-data-flow)
 - [Module 3: Interfaces and inputSignal](#module-3:-interfaces-and-inputsignal)
+- [Module 4: Getting to know the control flow](#module-4:-getting-to-know-the-control-flow)
 
 ## Module 1: Getting to know Angular
 ### Lesson Summary
-
-In this lesson, we learned:
 
 - The importance of Angular as a robust framework for developing large applications.
 - The use of Node.js and npm to manage packages in Angular development.
@@ -90,7 +89,7 @@ In this lesson, we learned:
 - Applying Unicode to icons and using event binding for interaction.
 - Toggle states and elements with negation and ternary operators.
 
-## Module 3: 
+## Module 3: Interfaces and inputSignal
 ### Lesson Summary
 
 - Creating data models in TypeScript using interfaces to define object contracts.
@@ -99,3 +98,15 @@ In this lesson, we learned:
 - The importance of communication between Angular components for reusing functionality and sharing data.
 - Separating data from presentation logic using mock files.
 - The implementation and use of input properties in Angular components.
+
+## Module 4: Getting to know the control flow
+### Lesson Summary
+
+- Use the Map data structure in JavaScript to store key-value pairs.
+- Use the OnInit hook in Angular to initialize logic before rendering a component.
+- Implement iteration logic over data collections with the forEach method.
+- Use optional chaining and null coalescing operators for safe data handling.
+- Transfer data from a parent component to a child component in Angular using input properties.
+- Iterate over lists in Angular using the @for directive and the need for tracking.
+- Implement conditional rendering using @if in Angular.
+- Apply CSS to style components and adjust the presentation of elements.

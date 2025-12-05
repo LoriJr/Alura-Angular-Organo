@@ -1,4 +1,5 @@
-import { Component } from '@angular/core';
+import { IGeneroLiterario } from './../livro/iLivro';
+import { Component, input } from '@angular/core';
 import { Livro } from '../livro/livro';
 import { livros } from '../livro/mock-livros';
 
@@ -9,5 +10,7 @@ import { livros } from '../livro/mock-livros';
   styleUrl: './genero-literario.css',
 })
 export class GeneroLiterario {
-  livro = livros[0]
+
+  genero = input.required<IGeneroLiterario>();
+
 }
