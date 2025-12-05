@@ -17,7 +17,7 @@ export const livros: ILivro[] = [
   titulo: "Como fazer amigos e influenciar pessoas",
   autoria: "Dale Carnegie",
   genero: {
-    id: 'Comportamento Humano',
+    id: 'comportamento-humano',
     value: 'Comportamento Humano',
     livros: []
   },

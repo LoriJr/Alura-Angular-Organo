@@ -1,11 +1,11 @@
 import { IGeneroLiterario } from './../livro/iLivro';
 import { Component, input } from '@angular/core';
 import { Livro } from '../livro/livro';
-import { livros } from '../livro/mock-livros';
+import { CommonModule } from '@angular/common';
 
 @Component({
   selector: 'app-genero-literario',
-  imports: [Livro],
+  imports: [Livro, CommonModule],
   templateUrl: './genero-literario.html',
   styleUrl: './genero-literario.css',
 })

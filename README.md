@@ -61,10 +61,11 @@ For more information on using the Angular CLI, including detailed command refere
 
 ## Content Class
 
-- [Module 1: Getting to know Angular](#module-1:-getting-to-know-angular)
-- [Module 2: Getting to know the Data Flow](#module-2:-getting-to-know-the-data-flow)
-- [Module 3: Interfaces and inputSignal](#module-3:-interfaces-and-inputsignal)
-- [Module 4: Getting to know the control flow](#module-4:-getting-to-know-the-control-flow)
+- [Module 1: Getting to know Angular](#module-1-getting-to-know-angular)
+- [Module 2: Getting to know the Data Flow](#module-2-getting-to-know-the-data-flow)
+- [Module 3: Interfaces and inputSignal](#module-3-interfaces-and-inputsignal)
+- [Module 4: Getting to know the control flow](#module-4-getting-to-know-the-control-flow)
+- [Module 5: Style condicional](#module-5-style-condicional)
 
 ## Module 1: Getting to know Angular
 ### Lesson Summary
@@ -110,3 +111,11 @@ For more information on using the Angular CLI, including detailed command refere
 - Iterate over lists in Angular using the @for directive and the need for tracking.
 - Implement conditional rendering using @if in Angular.
 - Apply CSS to style components and adjust the presentation of elements.
+
+## Module 5: 
+### Lesson Summary
+
+- Using ngClass to dynamically add/remove classes.
+- The importance of importing CommonModule to use Angular directives.
+- Associating CSS classes with elements based on data properties.
+- Structuring CSS classes to apply conditional styles.

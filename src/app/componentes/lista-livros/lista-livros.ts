@@ -32,9 +32,9 @@ export class ListaLivros implements OnInit{
         livros: this.livrosPorGenero.get("romance") ?? []
     },
     {
-        id: 'Comportamento Humano',
+        id: 'comportamento-humano',
         value: "Comportamento Humano",
-        livros: this.livrosPorGenero.get("Comportamento Humano") ?? []
+        livros: this.livrosPorGenero.get("comportamento-humano") ?? []
     },
     {
         id: 'misterio',
